@@ -2,7 +2,7 @@
 layout: post
 title: "在Linux安装Clash"
 author: "Changyi Li"
-categories: post
+categories: sample
 tags: [post,sample]
 image: clash.png
 ---
@@ -15,7 +15,7 @@ image: clash.png
 
 ## 下载clash
 
-[备份仓库连接]（https://github.com/CHH3213/clash-for-windows-backup/releases/tag/v0.20.39）
+[备份仓库连接](https://github.com/CHH3213/clash-for-windows-backup/releases/tag/v0.20.39)
 下载免安装压缩包
 ``` sh
 wget https://github.com/CHH3213/clash-for-windows-backup/releases/download/v0.20.39/Clash.for.Windows-0.20.39-x64-linux.tar.gz
