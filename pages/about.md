@@ -6,7 +6,7 @@ permalink: /about
 
 # Profile
 ## Intro
-- **Name**: Changyi Li\(李昶毅\)     
+- **Name**: Changyi Li     
 - **Collage**: Wuhan University  
 - **School** :School of Computer  
 - **E-mail** :1109583154@qq.com    

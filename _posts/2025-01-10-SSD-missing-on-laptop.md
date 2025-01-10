@@ -24,14 +24,14 @@ image: ssd.png
 3. 在输入栏输入`explore.exe`，点击确定即可重启桌面。
 
 附笔者系统
-|设备|型号|
-|:----:|:----:|
-|处理器|11th Gen Intel(R) Core(TM) i9-11900H|
-|内存|DDR4-16G|
-|机型|华硕天选2|
-|系统盘|NVMe SAMSUNG MZVLQ512HBLU-00BTW|
-|掉盘|致钛Ti5000 1TB|
-|OS|Windows11|
+|设备   |型号|
+|:----: |:----:|
+|处理器 |11th Gen Intel(R) Core(TM) i9-11900H|
+|内存   |DDR4-16G|
+|机型   |华硕天选2|
+|系统盘 |NVMe SAMSUNG MZVLQ512HBLU-00BTW|
+|掉盘   |致钛Ti5000 1TB|
+|OS     |Windows11|
 
 ## 30分钟大法 
 （笔者掉盘后直接重启了，估计这就是这个方法没有效果的原因？但不管怎么样，我觉得有一定道理，还是要执行这个大法）
