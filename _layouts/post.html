@@ -3,6 +3,15 @@ layout: default
 ---
 
 <div class="post-content">
+  <!-- 左侧目录 -->
+  <aside class="sidebar">
+    <div class="toc-container">
+      <h2>目录</h2>
+      <div class="toc">
+        {{ content | toc_only }}
+      </div>
+    </div>
+  </aside>
 
   <h1>
     {{ page.title }}
@@ -30,3 +39,14 @@ layout: default
     {% include disqus.html %}
   {% endif %}
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.10.1/tocbot.min.js"></script>
+<script>
+  tocbot.init({
+    tocSelector: '.toc',
+    contentSelector: '.main-content article',
+    headingSelector: 'h2, h3, h4',
+    scrollSmooth: true,
+    scrollSmoothOffset: -10
+  });
+</script>

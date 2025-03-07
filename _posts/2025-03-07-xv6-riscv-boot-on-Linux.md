@@ -145,7 +145,7 @@ Now we need to un&re install qemu-system-misc
         ] 
     }
     ```
-- Revise `.gbdinit`
+- Revise `/.gbdinit`  
     Add `@REM` to the front of the 3rd line && Save
 - Initialize gdb in pwd of xv6
 
