@@ -40,11 +40,11 @@ layout: default
   {% endif %}
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.10.1/tocbot.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/tocbot.min.js"></script>
 <script>
   tocbot.init({
     tocSelector: '.toc',
-    contentSelector: '.main-content article',
+    contentSelector: '.post-content article',
     headingSelector: 'h2, h3, h4',
     scrollSmooth: true,
     scrollSmoothOffset: -10
