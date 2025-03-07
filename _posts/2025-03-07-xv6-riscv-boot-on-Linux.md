@@ -90,7 +90,8 @@ Now we need to un&re install qemu-system-misc
 ## debug on Vs code
 - Setting on vscode
     - in `.vscode/launch.json`
-    ```java
+
+    ```java  
     {
         // Use IntelliSense to learn about possible attributes.
         // Hover to view descriptions of existing attributes.
