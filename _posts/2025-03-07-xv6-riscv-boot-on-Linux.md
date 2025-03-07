@@ -4,7 +4,7 @@ title: "Boot xv6-riscv on Linux qemu"
 author: "Changyi Li"
 categories: sample
 tags: [post,sample]
-image: clash.png
+image: xv6.jpg
 ---
 
 # Boot xv6-riscv on Linux qemu

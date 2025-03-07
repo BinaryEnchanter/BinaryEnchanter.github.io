@@ -4,7 +4,7 @@ title: "Boot Linux on Nexys A7 100T with Rocketchip"
 author: "Changyi Li"
 categories: sample
 tags: [post,sample]
-image: nexys.png
+image: nexys.jpg
 ---
 
 # Combination of RocketChip & Linux & Nexys-A7-100T(Failed)
